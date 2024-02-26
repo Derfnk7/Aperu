@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- create_screen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="nouvelle_r_union_string">Nouvelle Réunion</string>
+	<string name="titre_de_la_r_union_string">Titre de la réunion</string>
+	<string name="date_de_la_r_union_string">Date de la réunion</string>
+	<string name="heure_de_la_r_union_string">Heure de la réunion</string>
+	<string name="lieu_de_la_r_union_string">Lieu de la réunion</string>
+	<string name="ajouter_des_participants_string">Ajouter des participants</string>
+
+
+	<!--  home_screen strings  -->
+	<string name="aperu_string">APERU</string>
+	<string name="___string">+</string>
+	<string name="personne_gmail_com_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek1_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek0_string">Runion 1</string>
+	<string name="heure_de_la_r_union_ek0_string">07h30</string>
+	<string name="lieu_de_la_r_union_ek0_string">Salle red</string>
+	<string name="personne_gmail_com_ek2_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek3_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek1_string">Runion 2</string>
+	<string name="heure_de_la_r_union_ek1_string">08h30</string>
+	<string name="lieu_de_la_r_union_ek1_string">Salle brown</string>
+	<string name="personne_gmail_com_ek4_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek5_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek2_string">Runion 3</string>
+	<string name="heure_de_la_r_union_ek2_string">09h30</string>
+	<string name="lieu_de_la_r_union_ek2_string">Salle yellow</string>
+	<string name="personne_gmail_com_ek6_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek7_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek3_string">Runion 4</string>
+	<string name="heure_de_la_r_union_ek3_string">10h30</string>
+	<string name="lieu_de_la_r_union_ek3_string">Salle lime</string>
+	<string name="personne_gmail_com_ek8_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek9_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek4_string">Runion 5</string>
+	<string name="heure_de_la_r_union_ek4_string">11h30</string>
+	<string name="lieu_de_la_r_union_ek4_string">Salle green</string>
+	<string name="personne_gmail_com_ek10_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek11_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek5_string">Runion 6</string>
+	<string name="heure_de_la_r_union_ek5_string">12h30</string>
+	<string name="lieu_de_la_r_union_ek5_string">Salle aqua</string>
+	<string name="personne_gmail_com_ek12_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek13_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek6_string">Runion 8</string>
+	<string name="heure_de_la_r_union_ek6_string">14h30</string>
+	<string name="lieu_de_la_r_union_ek6_string">Salle blue</string>
+	<string name="personne_gmail_com_ek14_string">personne@gmail.com</string>
+	<string name="personne_gmail_com_ek15_string">personne@gmail.com</string>
+	<string name="titre_de_la_r_union_ek7_string">Runion 9</string>
+	<string name="heure_de_la_r_union_ek7_string">15h30</string>
+	<string name="lieu_de_la_r_union_ek7_string">Salle navy</string>
+
+
+</resources>
